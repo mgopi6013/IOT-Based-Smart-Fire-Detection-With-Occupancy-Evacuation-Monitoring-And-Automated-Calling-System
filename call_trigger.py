@@ -6,11 +6,11 @@ import threading
 app = Flask(__name__)
 
 # ---------------- PHONE DETAILS ----------------
-PHONE_NUMBER = "+916381389236"
+PHONE_NUMBER = "+91xxxxxxxxxx"
 CALL_DURATION = 10
 
 # ADB connected Android device
-ADB_DEVICE = "192.168.43.191:42519"
+ADB_DEVICE = "192.168.43.191:4xxxx"
 
 
 # ---------------- ADB COMMAND ----------------
